@@ -19,8 +19,8 @@
     #include <starmicronics/Platform.h>
     #include "enum.h"
 #else
-    #include <StarIO/starmicronics/Platform.h>
-    #include <StarIO/enum.h>
+    #include <Platform.h>
+    #include <enum.h>
 #endif
 
 #ifdef COMPILING_STARIOPORT

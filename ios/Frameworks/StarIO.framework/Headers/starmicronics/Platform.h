@@ -9,7 +9,7 @@
     #ifdef BUILDING_STARIO
         #include <starmicronics/platform/Mac.h>
     #else
-        #include <StarIO/starmicronics/platform/Mac.h>
+        #include <Mac.h>
     #endif
 
 #elif defined(__APPLE__)

@@ -7,9 +7,9 @@
 //
 
 #import "RNStarPrnt.h"
-#import <StarIO/SMPort.h>
-#import <StarIO_Extension/StarIoExt.h>
-#import <StarIO_Extension/StarIoExtManager.h>
+#import <SMPort.h>
+#import <StarIoExt.h>
+#import <StarIoExtManager.h>
 #import "Communication.h"
 
 @implementation RNStarPrnt
