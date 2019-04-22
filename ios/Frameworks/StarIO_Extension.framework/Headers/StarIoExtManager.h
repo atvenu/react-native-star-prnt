@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <StarIO/SMPort.h>
+#import <SMPort.h>
 
 typedef NS_ENUM(NSInteger, StarIoExtManagerType) {
     StarIoExtManagerTypeStandard = 0,
